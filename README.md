@@ -1,1 +1,1 @@
-# pins
+# Channel pins for Interim.
