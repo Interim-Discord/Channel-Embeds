@@ -1,0 +1,33 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "title": ":thought_balloon:  Ideals",
+      "description": "Be considerate of what's posted here.\nConsider people, active and lurking.\nDo not give unsolicited negative feedback.\nAvoid reaction gifs and memes.",
+      "color": 1746663
+    },
+    {
+      "title": ":placard: User Reports",
+      "description": "If you have an issue with another member, please DM a moderator with the details.\nOpen conflict in the discord is not allowed unless it's calling out poor behaviour in a constructive manner. Be considerate here, and edit your assumptions.\nConduct in and out of the discord affects people's comfort here and is relevant.",
+      "color": 16715345,
+      "fields": [
+        {
+          "name": ":anger:  Toxicity",
+          "value": "If someone's proving to be a toxic presence, they will likely be removed from the community. This may take a few forms, different impacts will have varied handling. \nIf you feel someone is continually rubbing you the wrong way, or striking out consistently, please reach out and it will be handled considerately."
+        }
+      ]
+    },
+    {
+      "title": ":pushpin: Channel Embeds",
+      "description": "If you want to contribute to any embed on the discord, you can do so via [github](https://github.com/Interim-Discord/Channel-Embeds/) PRs. \nPlease don't hesitate to reach out to <@&914447557688713256> with alterations and additions.",
+      "color": 15132390
+    },
+    {
+      "title": ":mailbox_with_mail:  Invites",
+      "description": "Please invite people, but do not invite any dickheads, thanks.\nNobody wants to deal with anyone questioning basic ideals, or shit-stirrers.\n:rainbow_flag: :transgender_flag: ✊🏿ACAB",
+      "color": 8906528
+    }
+  ],
+  "username": "Interim",
+  "avatar_url": "https://github.com/Interim-Discord/Channel-Embeds/blob/main/resources/interim.png?raw=true"
+}
