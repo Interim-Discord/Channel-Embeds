@@ -15,6 +15,6 @@ jobs:
         ref: ${{ github.head_ref }}
         fetch-depth: 0
     - name: Update Discord embeds
-      uses: vertxxyz/discord-embeds-action@release/v1.2.1
+      uses: vertxxyz/discord-embeds-action@main
       with:
         webhooks_secret: ${{ secrets.WEBHOOKS }}
