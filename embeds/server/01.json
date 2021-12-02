@@ -4,7 +4,13 @@
     {
       "title": ":pushpin:  Channel Embeds",
       "description": "If you want to contribute to any embed on the discord, you can do so via [github](https://github.com/Interim-Discord/Channel-Embeds/) PRs. \nPlease don't hesitate to reach out to <@&914447557688713256> with alterations and additions.",
-      "color": 15132390
+      "color": 15132390,
+      "fields": [
+        {
+          "name": "<:honk:915812858435076106> Emoji",
+          "value": "Don't hesitate to suggest emoji additions!"
+        }
+      ]
     }
   ],
   "username": "Interim",
